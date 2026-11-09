@@ -1,0 +1,7 @@
+Machine learning is a field of computer science that gives computers the ability to learn from data. Instead of writing every rule by hand, we train a model on examples, and the model learns the patterns by itself.
+
+A good model needs good data. If the data is noisy or incomplete, the model will learn the wrong patterns! Cleaning the data is often the most important step in the whole project.
+
+Why do so many people start with Python? The language is simple, the community is large, and the libraries for data science are excellent. With a few lines of code, you can read a file, count the words, and see what the text is about.
+
+Practice is the key to learning. Build small projects, share them on GitHub, and improve them step by step.
