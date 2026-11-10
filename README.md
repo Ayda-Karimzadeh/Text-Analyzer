@@ -65,7 +65,4 @@ The code is split into small, single-purpose functions:
 
 ## Author
 
-Ayda Karimzadeh
-
-- GitHub: [Ayda-Karimzadeh](https://github.com/Ayda-Karimzadeh)
-- LinkedIn: [ayda-karimzadeh](https://linkedin.com/in/ayda-karimzadeh)
+Ayda Karimzadeh — [GitHub](https://github.com/Ayda-Karimzadeh) . [LinkedIn](https://linkedin.com/in/ayda-karimzadeh)
